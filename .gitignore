@@ -1,0 +1,26 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.env
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+__unconfig*
+todos.json
+
+# OG image build artifacts
+scripts/fonts
+.venv-og
+dev-output.log
+
+# Scratch working directory for the logo tracing pipeline
+.ogwork
+
+# Local tooling
+.claude
+__pycache__
+*.pyc
